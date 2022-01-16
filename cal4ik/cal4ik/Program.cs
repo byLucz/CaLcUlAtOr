@@ -6,7 +6,10 @@ namespace cal4ik
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int num1 = 0; 
+
+            Console.WriteLine("Первое число");
+            num1 = Convert.ToInt32(Console.ReadLine());
         }
     }
 }

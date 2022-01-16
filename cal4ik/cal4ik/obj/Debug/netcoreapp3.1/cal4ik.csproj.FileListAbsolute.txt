@@ -1,0 +1,13 @@
+C:\Users\Kirill\Desktop\!ALLDZ\POGI\gg\cal\cal4ik\cal4ik\bin\Debug\netcoreapp3.1\cal4ik.exe
+C:\Users\Kirill\Desktop\!ALLDZ\POGI\gg\cal\cal4ik\cal4ik\bin\Debug\netcoreapp3.1\cal4ik.deps.json
+C:\Users\Kirill\Desktop\!ALLDZ\POGI\gg\cal\cal4ik\cal4ik\bin\Debug\netcoreapp3.1\cal4ik.runtimeconfig.json
+C:\Users\Kirill\Desktop\!ALLDZ\POGI\gg\cal\cal4ik\cal4ik\bin\Debug\netcoreapp3.1\cal4ik.runtimeconfig.dev.json
+C:\Users\Kirill\Desktop\!ALLDZ\POGI\gg\cal\cal4ik\cal4ik\bin\Debug\netcoreapp3.1\cal4ik.dll
+C:\Users\Kirill\Desktop\!ALLDZ\POGI\gg\cal\cal4ik\cal4ik\bin\Debug\netcoreapp3.1\cal4ik.pdb
+C:\Users\Kirill\Desktop\!ALLDZ\POGI\gg\cal\cal4ik\cal4ik\obj\Debug\netcoreapp3.1\cal4ik.csprojAssemblyReference.cache
+C:\Users\Kirill\Desktop\!ALLDZ\POGI\gg\cal\cal4ik\cal4ik\obj\Debug\netcoreapp3.1\cal4ik.AssemblyInfoInputs.cache
+C:\Users\Kirill\Desktop\!ALLDZ\POGI\gg\cal\cal4ik\cal4ik\obj\Debug\netcoreapp3.1\cal4ik.AssemblyInfo.cs
+C:\Users\Kirill\Desktop\!ALLDZ\POGI\gg\cal\cal4ik\cal4ik\obj\Debug\netcoreapp3.1\cal4ik.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\!ALLDZ\POGI\gg\cal\cal4ik\cal4ik\obj\Debug\netcoreapp3.1\cal4ik.dll
+C:\Users\Kirill\Desktop\!ALLDZ\POGI\gg\cal\cal4ik\cal4ik\obj\Debug\netcoreapp3.1\cal4ik.pdb
+C:\Users\Kirill\Desktop\!ALLDZ\POGI\gg\cal\cal4ik\cal4ik\obj\Debug\netcoreapp3.1\cal4ik.genruntimeconfig.cache

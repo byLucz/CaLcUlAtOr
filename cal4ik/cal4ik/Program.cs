@@ -41,6 +41,9 @@ namespace cal4ik
                     break;
 
             }
+
+            Console.Write("Press any key to close the Calculator console app...");
+            Console.ReadKey();
         }
     }
 }

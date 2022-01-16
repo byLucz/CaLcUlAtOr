@@ -36,6 +36,10 @@ namespace cal4ik
                     Console.WriteLine($"Ваш результат: {num1} * {num2} = " + (num1 * num2));
                     break;
 
+                case "/":
+                    Console.WriteLine($"Ваш результат: {num1} / {num2} = " + (num1 / num2));
+                    break;
+
             }
         }
     }

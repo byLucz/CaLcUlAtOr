@@ -24,6 +24,14 @@ namespace cal4ik
 
             switch (Console.ReadLine())
             {
+                case "+":
+                    Console.WriteLine($"Ваш результат: {num1} + {num2} = " + (num1 + num2));
+                    break;
+
+                case "-":
+                    Console.WriteLine($"Ваш результат: {num1} - {num2} = " + (num1 - num2));
+                    break;
+
 
             }
         }

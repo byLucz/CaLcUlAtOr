@@ -5,27 +5,10 @@ namespace cal4ik
     class Program
     {
         static void Main(string[] args)
-        {
-            int num1 = 0;
-            int num2 = 0;
+        { 
+            while(true)
+            Console.WriteLine(DateTime.Now.ToLongTimeString());
 
-            Console.WriteLine("Первое число");
-            num1 = Convert.ToInt32(Console.ReadLine());
-
-            Console.WriteLine("Второе число");
-            num2 = Convert.ToInt32(Console.ReadLine());
-
-            Console.WriteLine("Менюшка");
-            Console.WriteLine("\t+ - плюс");
-            Console.WriteLine("\t- - минус");
-            Console.WriteLine("\t* - умножение");
-            Console.WriteLine("\t/ - деление");
-            Console.Write("Твой выбор?");
-
-            switch (Console.ReadLine())
-            {
-
-            }
         }
     }
 }

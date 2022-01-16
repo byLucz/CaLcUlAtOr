@@ -15,7 +15,17 @@ namespace cal4ik
             Console.WriteLine("Второе число");
             num2 = Convert.ToInt32(Console.ReadLine());
 
+            Console.WriteLine("Менюшка");
+            Console.WriteLine("\t+ - плюс");
+            Console.WriteLine("\t- - минус");
+            Console.WriteLine("\t* - умножение");
+            Console.WriteLine("\t/ - деление");
+            Console.Write("Твой выбор?");
 
+            switch (Console.ReadLine())
+            {
+
+            }
         }
     }
 }
